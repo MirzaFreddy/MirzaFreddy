@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hey there 👋  
 Mirza Is Talking! I turn coffee ☕️ into code, and pixels 🎨 into stories.  
-Frontend developer focusing on clean UI, smooth animations, and React magic.  
+FullStack developer focusing on clean UI, smooth animations, and React magic :/
 Currently working on Toshe, an experience-based social platform.  
-Fun fact: I can spend hours fixing one pixel just to make it *feel right* and Unlike this text written in GPT, I type it myself XD
+Fun fact: I can spend hours fixing one pixel just to make it *feel right* and Unlike this text written in GPT, I write the code myself XD
 
 
 ## 🌐 Socials:
